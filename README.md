@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34240468/README.md)
 <h1 align="center">Muhammad Masood</h1>
 <p align="center"><b>AI &amp; Software Developer | Agentic AI Enthusiast | Full-Stack Developer | Automation Engineer</b></p>
-<p align="center">Computer Science student (BS, 5th semester) building intelligent software, automation and modern digital experiences.</p>
+<p align="center">Computer Science student (BS, 7th semester) building intelligent software, automation and modern digital experiences.</p>
 
 <p align="center">
   <a href="https://masoodachakzai4-ui.github.io"><img src="https://img.shields.io/badge/Portfolio-5b8cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
